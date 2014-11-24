@@ -13,6 +13,17 @@ These variables identify the unique subject/activity pair the variables relate t
   - Standing
   - Laying
 
+
+### Attribute Information:
+
+For each record in the dataset it is provided:  
+- Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration. 
+- Triaxial Angular velocity from the gyroscope. 
+- A 561-feature vector with time and frequency domain variables. 
+- Its activity label. 
+- An identifier of the subject who carried out the experiment.
+- 
+
 ## Measurement Means
 
 All variables are the mean of a measurement for each subject and activity. This is indicated by the initial Mean in the variable name. All values are floating point numbers.
@@ -117,3 +128,6 @@ All variables are the mean of a measurement for each subject and activity. This 
   - MeanFrequencyBodyGyroJerkMagMean
  - Frequency domain gyroscope jerk magnitude standard deviation:
   - MeanFrequencyBodyGyroJerkMagStdDev
+
+
+Coursera's Codebook provided : 
